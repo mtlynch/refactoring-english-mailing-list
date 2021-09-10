@@ -3,7 +3,7 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](LICENSE)
 [![CircleCI](https://circleci.com/gh/mtlynch/refactoring-english-mailing-list.svg?style=svg)](https://circleci.com/gh/mtlynch/refactoring-english-mailing-list)
 
-Signup handler for TinyPilot Mailing List.
+Signup handler for *Refactoring English* Mailing List.
 
 ## Details
 
