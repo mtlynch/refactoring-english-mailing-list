@@ -17,7 +17,7 @@ jobs:
     docker:
       - image: google/cloud-sdk:351.0.0-slim
     environment:
-      GCLOUD_PROJECT: refactoring-english
+      GCLOUD_PROJECT: refactoring-english-2
       GO_RUNTIME: go113
       FUNCTION_NAME: EmailSignup
     steps:
