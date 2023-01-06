@@ -15,7 +15,7 @@ jobs:
           command: dev-scripts/check-go-formatting
   deploy:
     docker:
-      - image: google/cloud-sdk:368.0.0-slim
+      - image: google/cloud-sdk:412.0.0-slim
     environment:
       GCLOUD_PROJECT: refactoring-english-2
       GO_RUNTIME: go113
